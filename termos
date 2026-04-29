@@ -1,0 +1,302 @@
+================================================================================
+              TERMOS DE USO DO APLICATIVO CRSP
+         Centro de Respostas São Paulo
+         Desenvolvido por Mentalista | Versão 1.4.0
+         Última atualização: 13 de março de 2026
+================================================================================
+
+LEIA ESTE DOCUMENTO COM ATENÇÃO ANTES DE UTILIZAR O APLICATIVO.
+Ao fazer login ou continuar usando o CRSP, você declara que leu, compreendeu
+e concorda integralmente com os termos descritos abaixo.
+
+--------------------------------------------------------------------------------
+1. SOBRE O APLICATIVO
+--------------------------------------------------------------------------------
+
+O CRSP (Centro de Respostas São Paulo) é um aplicativo Android desenvolvido
+por Mentalista, voltado a estudantes do sistema educacional. O app oferece as
+seguintes funcionalidades principais:
+
+  • Login com RA (Registro do Aluno), Dígito, UF e Senha;
+  • Dashboard com visualização de turmas e informações do usuário;
+  • Visualização e entrega de tarefas e atividades escolares;
+  • Auto-resolver: ferramenta de automação de respostas com temporizador;
+  • Apostilas digitais em PDF organizadas por série e volume;
+  • Chat com assistente virtual inteligente (Apeia);
+  • Notificações em tempo real e em segundo plano (background);
+  • Integração com plataforma de ensino (Alura) via autocomplete;
+  • Configurações personalizadas: tema escuro/claro, notificações, automação;
+  • Acesso a canais oficiais: Discord, TikTok (@crsp_ofc), YouTube (@CRSP202).
+
+O aplicativo é distribuído de forma privada e destina-se exclusivamente a
+usuários autorizados.
+
+--------------------------------------------------------------------------------
+2. ELEGIBILIDADE E CADASTRO
+--------------------------------------------------------------------------------
+
+  • O uso do CRSP é permitido apenas a estudantes devidamente matriculados e
+    com credenciais válidas no sistema educacional integrado.
+
+  • O usuário deve ter autorização para acessar o sistema com as credenciais
+    utilizadas (RA, dígito, UF e senha).
+
+  • É vedado o uso por terceiros não autorizados ou o compartilhamento de
+    credenciais de acesso.
+
+  • Menores de 18 anos devem ter ciência dos responsáveis legais sobre o uso
+    deste aplicativo.
+
+--------------------------------------------------------------------------------
+3. REGRAS DE USO
+--------------------------------------------------------------------------------
+
+  • O usuário deve fornecer dados verdadeiros e manter suas credenciais em
+    total sigilo, sendo responsável por qualquer acesso realizado com sua conta.
+
+  • É estritamente proibido utilizar o CRSP para fins ilícitos, imorais,
+    fraudulentos ou não autorizados.
+
+  • É proibido tentar acessar áreas restritas, manipular APIs, realizar
+    engenharia reversa, descompilar ou modificar o aplicativo sem autorização
+    expressa do desenvolvedor.
+
+  • O uso de bots, scripts externos ou qualquer ferramenta para contornar
+    funcionalidades de segurança do sistema é proibido, exceto pelas
+    ferramentas de automação oficialmente disponibilizadas dentro do próprio app.
+
+  • O uso indevido ou tentativa de violação da segurança do sistema resultará
+    em suspensão ou banimento imediato da conta, sem aviso prévio.
+
+  • O CRSP reserva-se o direito de atualizar, modificar ou descontinuar
+    funcionalidades a qualquer momento.
+
+  • Estes termos podem ser atualizados periodicamente. Recomenda-se a leitura
+    periódica deste documento.
+
+--------------------------------------------------------------------------------
+4. FUNCIONALIDADE DE AUTO-RESOLVER ATIVIDADES
+--------------------------------------------------------------------------------
+
+  • O recurso de "Auto-resolver" é uma ferramenta de automação que submete
+    respostas de atividades automaticamente com base em configurações definidas
+    pelo próprio usuário (tempo mínimo/máximo de delay).
+
+  • O uso desta funcionalidade é de inteira responsabilidade do usuário.
+    O CRSP não garante resultados, aprovação ou desempenho acadêmico decorrentes
+    do uso desta ferramenta.
+
+  • O usuário deve estar ciente de que o uso de automação de respostas pode
+    violar as regras internas da instituição de ensino. O CRSP não se
+    responsabiliza por eventuais consequências disciplinares.
+
+  • Para que o recurso funcione em segundo plano (app fechado), o usuário
+    deverá conceder permissão de execução em background e desativar a
+    otimização de bateria para o aplicativo CRSP nas configurações do
+    dispositivo.
+
+--------------------------------------------------------------------------------
+5. POLÍTICA DE PRIVACIDADE E LGPD
+--------------------------------------------------------------------------------
+
+Em conformidade com a Lei Geral de Proteção de Dados Pessoais
+(Lei nº 13.709/2018 – LGPD), informamos:
+
+5.1 DADOS COLETADOS
+
+  Os seguintes dados podem ser coletados e armazenados localmente no
+  dispositivo ou nos servidores do CRSP:
+
+    - RA (Registro do Aluno), Dígito e UF;
+    - CPF, nome completo e nickname;
+    - Endereços de e-mail (Google e Microsoft) vinculados à conta escolar;
+    - Data de nascimento e telefone;
+    - Perfil escolar (série, escola, diretoria, código de comportamento);
+    - Token de autenticação e token FCM (notificações push);
+    - Preferências do aplicativo (tema, configurações de automação);
+    - Dados de eventos de uso via Firebase Analytics.
+
+5.2 FINALIDADE DO TRATAMENTO
+
+  Os dados coletados são utilizados exclusivamente para:
+
+    - Autenticação e manutenção da sessão do usuário;
+    - Exibição de informações personalizadas no app;
+    - Envio de notificações relevantes;
+    - Análise de uso para melhoria do aplicativo (Firebase Analytics);
+    - Execução das funcionalidades solicitadas pelo próprio usuário.
+
+5.3 ARMAZENAMENTO E SEGURANÇA
+
+  - Os dados são armazenados localmente via SharedPreferences (criptografados)
+    e nos servidores do sistema educacional integrado.
+  - O aplicativo utiliza Firebase (Google) para notificações e analytics.
+  - O desenvolvedor adota medidas técnicas razoáveis para proteger os dados.
+
+5.4 DIREITOS DO TITULAR
+
+  O usuário tem o direito de:
+
+    - Acessar seus dados pessoais armazenados no app;
+    - Solicitar correção de dados incorretos ou desatualizados;
+    - Solicitar a exclusão dos seus dados pessoais;
+    - Revogar o consentimento de uso dos dados a qualquer momento.
+
+  Para exercer estes direitos, entre em contato pelos canais oficiais do CRSP.
+
+5.5 COMPARTILHAMENTO DE DADOS
+
+  Os dados do usuário NÃO serão vendidos, alugados ou compartilhados com
+  terceiros para fins comerciais. O compartilhamento ocorre apenas com
+  provedores de serviço essenciais ao funcionamento do app (ex.: Firebase/Google).
+
+--------------------------------------------------------------------------------
+6. NOTIFICAÇÕES E PERMISSÕES
+--------------------------------------------------------------------------------
+
+  • O aplicativo poderá solicitar as seguintes permissões:
+
+    - Notificações (POST_NOTIFICATIONS): para envio de alertas e avisos;
+    - Ignorar otimização de bateria: para execução de tarefas em background;
+    - Acesso à Internet: obrigatório para todas as funcionalidades online.
+
+  • O usuário pode revogar essas permissões a qualquer momento nas
+    configurações do dispositivo, ciente de que algumas funcionalidades
+    poderão ser afetadas.
+
+--------------------------------------------------------------------------------
+7. PROPRIEDADE INTELECTUAL
+--------------------------------------------------------------------------------
+
+  • Todo o conteúdo do aplicativo CRSP, incluindo código-fonte, design,
+    logotipo, textos, scripts e funcionalidades, é de propriedade exclusiva
+    do desenvolvedor (Mentalista).
+
+  • É proibida a reprodução, distribuição, modificação ou uso comercial de
+    qualquer parte do aplicativo sem autorização prévia e expressa por escrito.
+
+  • Os conteúdos didáticos (apostilas, tarefas, questões) são de propriedade
+    das respectivas instituições de ensino e plataformas educacionais.
+
+--------------------------------------------------------------------------------
+8. ISENÇÃO DE RESPONSABILIDADE
+--------------------------------------------------------------------------------
+
+  • O CRSP é fornecido "como está" (as is), sem garantias expressas ou
+    implícitas de funcionamento ininterrupto ou ausência de erros.
+
+  • O desenvolvedor não se responsabiliza por:
+
+    - Danos diretos, indiretos, incidentais ou consequenciais decorrentes do
+      uso ou da impossibilidade de uso do aplicativo;
+    - Perda de dados, acesso não autorizado por terceiros ou falhas de
+      dispositivo;
+    - Consequências acadêmicas, disciplinares ou legais decorrentes do uso
+      das funcionalidades de automação;
+    - Indisponibilidade do serviço por manutenção, atualização ou falhas
+      externas (servidores da escola, internet, Firebase, etc.).
+
+  • O usuário utiliza o aplicativo por sua conta e risco.
+
+--------------------------------------------------------------------------------
+9. ATUALIZAÇÕES DO APLICATIVO
+--------------------------------------------------------------------------------
+
+  • O CRSP pode receber atualizações automáticas ou obrigatórias. Em caso de
+    atualização obrigatória, o acesso poderá ser bloqueado até que o usuário
+    atualize para a versão mais recente.
+
+  • Em caso de manutenção programada ou emergencial, o sistema poderá ser
+    temporariamente indisponível. O usuário será notificado sempre que possível.
+
+--------------------------------------------------------------------------------
+10. SUPORTE E CANAIS OFICIAIS
+--------------------------------------------------------------------------------
+
+  Para dúvidas, sugestões, denúncias de violações ou solicitações relacionadas
+  à privacidade de dados, entre em contato pelos canais oficiais do CRSP:
+
+    • Discord:  Servidor oficial do CRSP
+    • TikTok:   @crsp_ofc
+    • YouTube:  @CRSP202
+    • Suporte:  Disponível em horário comercial, de segunda a sexta-feira.
+
+  Denúncias de violações dos termos de uso devem ser reportadas imediatamente
+  através dos canais de suporte acima.
+
+--------------------------------------------------------------------------------
+11. DISPOSIÇÕES GERAIS
+--------------------------------------------------------------------------------
+
+  • Estes Termos de Uso são regidos pelas leis brasileiras, em especial o
+    Código de Defesa do Consumidor (Lei nº 8.078/1990), o Marco Civil da
+    Internet (Lei nº 12.965/2014) e a LGPD (Lei nº 13.709/2018).
+
+  • Caso qualquer disposição destes termos seja considerada inválida ou
+    inaplicável, as demais disposições permanecerão em pleno vigor.
+
+  • A tolerância do desenvolvedor em relação ao descumprimento de qualquer
+    condição destes termos não constitui renúncia ao direito de exigi-la
+    em momento futuro.
+
+  • Estes Termos de Uso entram em vigor na data de instalação ou primeiro
+    acesso ao aplicativo pelo usuário.
+
+--------------------------------------------------------------------------------
+12. ANÚNCIOS PREMIADOS (REWARDED ADS)
+--------------------------------------------------------------------------------
+
+  • O CRSP exibe anúncios premiados ("Rewarded Ads") como parte de sua
+    estrutura de monetização. Ao assistir a um anúncio completo, o usuário
+    poderá receber recompensas dentro do aplicativo, como desbloqueio
+    temporário de funcionalidades, créditos ou outros benefícios definidos
+    pelo desenvolvedor.
+
+  • A exibição de anúncios premiados é opcional e voluntária: o usuário
+    somente visualiza o anúncio se optar por fazê-lo para obter a recompensa
+    correspondente. Não há exibição forçada de anúncios premiados sem
+    consentimento prévio do usuário.
+
+  • Os anúncios são fornecidos por redes de publicidade terceirizadas
+    (ex.: Google AdMob). O CRSP não possui controle sobre o conteúdo
+    específico dos anúncios exibidos, sendo de responsabilidade exclusiva
+    do provedor de anúncios o cumprimento das legislações aplicáveis.
+
+  • Ao interagir com os anúncios, o usuário reconhece que poderá ser
+    direcionado a conteúdos ou serviços externos ao CRSP. O desenvolvedor
+    não se responsabiliza por produtos, serviços ou informações divulgados
+    por anunciantes terceiros.
+
+  • Os dados de interação com anúncios (como identificador de dispositivo e
+    dados de uso) poderão ser coletados pelas redes de publicidade parceiras
+    conforme suas próprias políticas de privacidade, às quais o usuário
+    está sujeito ao interagir com os anúncios.
+
+  • As recompensas obtidas por meio de anúncios premiados são válidas
+    exclusivamente dentro do aplicativo CRSP, não possuem valor monetário
+    real e não podem ser transferidas, trocadas ou resgatadas em dinheiro.
+
+  • O CRSP reserva-se o direito de alterar, suspender ou encerrar o
+    programa de anúncios premiados a qualquer momento, sem aviso prévio
+    e sem obrigação de manter recompensas previamente acumuladas.
+
+--------------------------------------------------------------------------------
+13. ACEITAÇÃO DOS TERMOS
+--------------------------------------------------------------------------------
+
+Ao realizar o login ou utilizar qualquer funcionalidade do CRSP, você confirma
+que:
+
+  [✓] Leu e compreendeu integralmente estes Termos de Uso;
+  [✓] Concorda com a coleta e tratamento de dados conforme descrito;
+  [✓] Tem autorização para utilizar as credenciais fornecidas;
+  [✓] É responsável por todos os atos realizados através de sua conta.
+
+Se você não concordar com qualquer parte destes termos, não utilize o
+aplicativo CRSP.
+
+================================================================================
+         CRSP – Centro de Respostas São Paulo
+         Desenvolvido por Mentalista © 2026 | Versão 1.4.0
+         Todos os direitos reservados.
+================================================================================
